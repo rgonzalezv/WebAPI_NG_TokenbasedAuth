@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_NG_TokenbasedAuth", "WebAPI_NG_TokenbasedAuth\WebAPI_NG_TokenbasedAuth.csproj", "{1340E2BD-8BFC-4771-A424-6AC0BB49F62B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_NG_TokenbasedAuth.Tests", "WebAPI_NG_TokenbasedAuth.Tests\WebAPI_NG_TokenbasedAuth.Tests.csproj", "{3C1858A3-BE90-47EC-A345-1C8F6592DEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1340E2BD-8BFC-4771-A424-6AC0BB49F62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1340E2BD-8BFC-4771-A424-6AC0BB49F62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1340E2BD-8BFC-4771-A424-6AC0BB49F62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1340E2BD-8BFC-4771-A424-6AC0BB49F62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1858A3-BE90-47EC-A345-1C8F6592DEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1858A3-BE90-47EC-A345-1C8F6592DEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1858A3-BE90-47EC-A345-1C8F6592DEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1858A3-BE90-47EC-A345-1C8F6592DEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C43D8C8A-0094-4F3A-AF0F-3DEFA8696DFC}
+	EndGlobalSection
+EndGlobal

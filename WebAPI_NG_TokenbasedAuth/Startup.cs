@@ -12,6 +12,9 @@ namespace WebAPI_NG_TokenbasedAuth
     {
         public void Configuration(IAppBuilder app)
         {
+
+
+
             ConfigureAuth(app);
         }
     }
